@@ -28,11 +28,19 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Zambia.
+I am a Business Intelligence and Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Zambia.
 
-- :telescope: I’m working as a Junior Software Developer and contributing to frontend for building webApp applications.
+- :telescope: Experienced Business Intelligence Manager and Data Analyst driving impactful business solutions within the Security and Operations sector. I have a proven track record of delivering data driven solutions across various industries, including FMCG, Agri-Tech, IT, and Health. My experience encompasses designing and implementing data systems for precise intelligence reporting. I excel in overseeing quality procedures, conducting audits, and managing analysts.
 
-- :seedling: Exploring Data Analystics.
+Skills:
+
+Data Analytics,  Business Analytics, Project Management, Business Intelligence (BI), Extract, Transform, Load (ETL), and Data Architecture, Data Modelling, Data Pipelines,  Data Visualization 
+
+Tools:
+
+Microsoft Excel | Power BI | SQL | R | SAS | STATA | Google Cloud Platform | JavaScript | AppScript | Python | Looker | Tableau.
+
+- :seedling: Exploring Data Analystics and Science.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, read tech articles as well as watch Soccer (Manchester City fan).
 
