@@ -28,9 +28,9 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Business Intelligence and Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Zambia.
+Data Scientist | Data Analyst | Business Intelligence Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Zambia.
 
-- :telescope: Experienced Business Intelligence Manager and Data Analyst driving impactful business solutions within the Security and Operations sector. I have a proven track record of delivering data driven solutions across various industries, including FMCG, Agri-Tech, IT, and Health. My experience encompasses designing and implementing data systems for precise intelligence reporting. I excel in overseeing quality procedures, conducting audits, and managing analysts.
+I am working as a Business Intelligence Manager and Data Analyst driving impactful business solutions within the Security and Operations sector. I have a proven track record of delivering data driven solutions across various industries, including FMCG, Agri-Tech, IT, and Health. My experience encompasses designing and implementing data systems for precise intelligence reporting. I excel in overseeing quality procedures, conducting audits, and managing analysts.
 
 Skills:
 
@@ -40,11 +40,9 @@ Tools:
 
 Microsoft Excel | Power BI | SQL | R | SAS | STATA | Google Cloud Platform | JavaScript | AppScript | Python | Looker | Tableau.
 
-- :seedling: Exploring Data Analystics and Science.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks, read tech articles as well as watch Soccer (Manchester City fan).
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chiboni-timothy-797912113/)
+- :mailbox:Reach me on Linkedin: [![Linkedin](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chiboni-timothy-797912113/)
 
 ---
 
