@@ -30,7 +30,8 @@
 ### :man_technologist: About Me :
 I am a Business Intelligence and Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Zambia.
 
-- :telescope: Experienced Business Intelligence Manager and Data Analyst driving impactful business solutions within the Security and Operations sector. I have a proven track record of delivering data driven solutions across various industries, including FMCG, Agri-Tech, IT, and Health. My experience encompasses designing and implementing data systems for precise intelligence reporting. I excel in overseeing quality procedures, conducting audits, and managing analysts.
+- :telescope:
+- Experienced Business Intelligence Manager and Data Analyst driving impactful business solutions within the Security and Operations sector. I have a proven track record of delivering data driven solutions across various industries, including FMCG, Agri-Tech, IT, and Health. My experience encompasses designing and implementing data systems for precise intelligence reporting. I excel in overseeing quality procedures, conducting audits, and managing analysts.
 
 Skills:
 
